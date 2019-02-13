@@ -1,0 +1,8 @@
+{
+    "name": "cwp-22-2",
+    "author": "bogdansky",
+    "version": "1.0.1",
+    "dependencies": {
+        "polish-cwp-22": "^1.0.0"
+    }
+}
